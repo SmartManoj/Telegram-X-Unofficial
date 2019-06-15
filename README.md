@@ -1,4 +1,4 @@
-# TelegramX-Unofficial
-TelegramX Bugs and Feature Requests 
+# Telegram X-Unofficial
+Telegram X Bugs and Feature Requests 
 
 https://t.me/tgandroidtests
